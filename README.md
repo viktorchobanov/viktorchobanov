@@ -2,7 +2,7 @@
 
 <h4 align="left">About me:</h4>
 <p align="left">
-I am an experienced software engineer with а proven successful track
+I am an experienced software engineer with а proven track
 record and more than half a decade of expertise in developing and
 maintaining software solutions, web and decentralized applications.
 </p>

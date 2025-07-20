@@ -22,4 +22,5 @@ Some of the technologies that I have been using are
   <li>💰 FinTech</li>
   <li>🔗 Blockchain/Crypto/dApps</li>
   <li>🚀 DeFi</li>
+  <li>🤖 AI & Automations</li>
 </ul>

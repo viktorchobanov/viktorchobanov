@@ -7,8 +7,10 @@ record and more than half a decade of expertise in developing and
 maintaining software solutions, web and decentralized applications.
 </p>
 
-
-
+<h2>🛠️ My Tech Stack</h2>
+<p>
+  React.js | Next.js | Redux | Tailwind CSS | SASS | Framer Motion | TypeScript | JavaScript | Node.js | Express.js | Socket.io | Web3.js | Ethers.js | Solidity | Hardhat | PostgreSQL | MongoDB | MySQL | Docker | AWS | CircleCI | Jest | Tap | Webpack
+</p>
 
 <h4 align="left">My interests:</h4>
 <ul align="left" style="list-style: none">

@@ -37,9 +37,10 @@ maintaining software solutions, web and decentralized applications.
 
 <h4 align="left">My interests:</h4>
 <ul align="left" style="list-style: none">
-  <li>🌐 Web2 & Web3 Development</li>
-  <li>💰 FinTech</li>
-  <li>🔗 Blockchain/Crypto/dApps</li>
-  <li>🚀 DeFi</li>
-  <li>🤖 AI & Automations</li>
+  <li>🧑‍💻 Web2 & Web3 Development</li>
+  <li>💳 FinTech</li>
+  <li>🔗 Blockchain • Crypto • dApps</li>
+  <li>🚀 DeFi & Web3 Protocols</li>
+  <li>🧠 AI & Workflow Automation</li>
+  <li>📲 Telegram Bots</li>
 </ul>
